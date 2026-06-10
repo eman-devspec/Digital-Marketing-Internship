@@ -1,4 +1,3 @@
-# Digital-Marketing-Internship
 # DevelopersHub Digital Marketing Internship
 
 ## Week 1 - Research & Campaign Planning
