@@ -57,15 +57,6 @@ This project is being completed as part of a 6-week Digital Marketing Internship
 * Campaign Planning
 * Performance Optimization
 
-## Upcoming Work (Week 4–6)
-
-* Advanced Campaign Execution
-* Additional Content Creation
-* Lead Generation Activities
-* Performance Tracking
-* Final Project Report
-* Final Presentation
-
 ## Status
 
 This repository will be updated weekly throughout the internship period until all 6 weeks are completed.
